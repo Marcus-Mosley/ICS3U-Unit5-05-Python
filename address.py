@@ -46,7 +46,7 @@ def main():
         address_format(addressee, str_num, str_name, city,
                        province, postal_code)
 
-    # print(full_address)
+    print(full_address)
 
 
 if __name__ == "__main__":

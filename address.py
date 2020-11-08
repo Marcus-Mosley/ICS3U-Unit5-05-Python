@@ -31,7 +31,7 @@ def main():
     addressee = input("Enter the name of the addressee: ")
     apprt_question = input("Do you have an Apartment Number?: ")
     if apprt_question.upper() == "Y" or apprt_question.upper() == "YES":
-        apprt_num = input("Enter the Appartment Number: ")
+        apprt_num = input("Enter the Apartment Number: ")
     str_num = input("Enter the Street Number: ")
     str_name = input("Enter the Street Name: ")
     city = input("Enter the City Name: ")
